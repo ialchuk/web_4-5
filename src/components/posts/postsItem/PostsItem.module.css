@@ -1,0 +1,24 @@
+.item {
+    width: 90%;
+    height: 250px;
+    margin: 30px;
+}
+
+.post {
+    display: flex;
+}
+.post img {
+    width: 300px;
+    padding-right: 20px;
+}
+.edit {
+    height: max-content;
+    padding: 5px 20px;
+    border: 1px solid;
+    border-radius: 5px;
+    margin: 10px;
+    cursor: pointer;
+}
+.edit a {
+    color: black;
+}

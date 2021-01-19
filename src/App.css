@@ -1,0 +1,10 @@
+.app {
+  width: 1400px;
+  height: 900px;
+  margin: 0 auto;
+}
+
+.container {
+  width: 100%;
+  height: max-content;
+}
